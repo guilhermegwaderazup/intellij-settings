@@ -6,6 +6,7 @@
         <option value="idea.plugin.protoeditor" />
         <option value="com.jetbrains.jax.ws" />
         <option value="aws.toolkit" />
+        <option value="com.haulmont.jpab" />
       </list>
     </option>
   </component>
