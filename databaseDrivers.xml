@@ -4,7 +4,7 @@
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.14" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
     </driver>
   </component>
 </application>
