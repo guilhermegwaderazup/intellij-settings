@@ -17,6 +17,7 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="120" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
