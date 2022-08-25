@@ -5,6 +5,15 @@
     <option name="telemetryEnabled" value="false" />
     <option name="useDefaultCredentialRegion" value="Prompt" />
   </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsAutoEnabled" value="false" />
+        <entry key="IsManualEnabled" value="false" />
+        <entry key="HasAcceptedTermsOfServices" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="executables">
     <option name="value">
       <list>
@@ -15,6 +24,13 @@
           <option name="id" value="samCli" />
         </ExecutableState>
       </list>
+    </option>
+  </component>
+  <component name="experiments">
+    <option name="value">
+      <map>
+        <entry key="codeWhisperer" value="false" />
+      </map>
     </option>
   </component>
 </application>
